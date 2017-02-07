@@ -1,2 +1,2 @@
 # tab-router
-A tabbed master/detail router basse in ui-router
+An angular modulo that provider a tabbed master/detail routing based on ui-router
